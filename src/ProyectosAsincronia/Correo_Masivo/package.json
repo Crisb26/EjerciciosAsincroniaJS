@@ -1,0 +1,16 @@
+{
+  "name": "correo_masivo",
+  "version": "1.0.0",
+  "main": "envio_correo_masivo.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemailer": "^7.0.3"
+  }
+}
