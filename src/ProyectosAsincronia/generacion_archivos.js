@@ -40,6 +40,7 @@ async function generarArchivos() {
   }
 }
 
+<<<<<<< HEAD
 generarArchivos();
 =======
 //en este codigo generaremos archivos masivos de forma asincrona, asi que usaremos  "fs" de node.js para crear muchos archivos
@@ -74,3 +75,6 @@ async function generarArchivosMasivos(cantidad) {
 //aqui generariamos la cantidad de veces que vamos a generarlo y listo
 generarArchivosMasivos(1000);
 >>>>>>> rama-cris
+=======
+generarArchivos();
+>>>>>>> 9e71ac56763c61021a3cd828f97421aa4f313d03
